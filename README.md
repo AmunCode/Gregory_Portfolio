@@ -6,7 +6,9 @@ Auctions scraper to pull and analyze BSstock auction inventory manifests for pur
 - Automates a time consuming task from hours down to minutes
 - OOP example: turns each item of each auction into an object. 
 - Multi-threading to speed up scraping process. 
-# Jeggy Demo Images
+
+Jeggy Demo Images
+---
 Very simple interface with dropdown menu selection. 
 ![Opening Menu](https://user-images.githubusercontent.com/55643060/150057725-dc15fa99-da7a-4481-8a09-0cd3e919df7f.png)
 
