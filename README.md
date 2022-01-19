@@ -1,6 +1,6 @@
 # Gregory_Portfolio
 Examples of software projects
-# Jeggy
+# [Jeggy](https://github.com/AmunCode/Jeggy.git)
 Auctions scraper to pull and analyze BSstock auction inventory manifests for purchashing opportunities
 
 - Automates a time consuming task from hours down to minutes
