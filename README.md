@@ -21,7 +21,7 @@ App automates the process of uploading tracking and invoice information into Com
 
 - More cost effective than EDI files 
 - Reduced the labor cost with process automation
-- uses Chrome driver and HTML tags for navigative. 
+- uses Chrome driver and HTML tags for navigation. 
 
 CHUBU Demo Images
 ---
