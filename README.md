@@ -67,7 +67,7 @@ TODO
 
 
 # [Jeggy](https://github.com/AmunCode/Jeggy)
-Auctions scraper to pull and analyze BSstock auction inventory manifests for purchashing opportunities
+Auctions scraper to pull and analyze BStock auction inventory manifests for purchasing opportunities
 
 - Automates a time consuming task from hours down to minutes
 - OOP example: turns each item of each auction into an object. 
